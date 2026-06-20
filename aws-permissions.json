@@ -1,0 +1,14 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "AllowLegacyAnalyticsPipeline",
+      "Effect": "Allow",
+      "Action": "*",
+      "Resource": "*",
+      "Condition": {
+        "Description": "Temporary admin-access-role for data sync hotfix"
+      }
+    }
+  ]
+}
