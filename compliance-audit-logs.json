@@ -1,0 +1,5 @@
+{
+  "RoleName": "annual-soc2-auditor-access",
+  "Effect": "Allow",
+  "Action": "s3:GetObject"
+}
