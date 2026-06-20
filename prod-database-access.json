@@ -1,0 +1,5 @@
+{
+  "RoleName": "production-db-sync-role",
+  "Effect": "Allow",
+  "Action": "dynamodb:UpdateItem"
+}
